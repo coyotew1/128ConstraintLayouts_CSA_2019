@@ -494,8 +494,6 @@ containing a value of this type.
         public static final int to_label=0x7f050005;
     }
     public static final class style {
-        /**  Customize your theme here. 
-         */
         public static final int AppTheme=0x7f060000;
     }
     public static final class styleable {
